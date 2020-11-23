@@ -1,24 +1,12 @@
-# grid-test
+# Grid-test
+Um teste com grids para aprender Vue XD
 
 ## Project setup
 ```
-npm install
+npm instal ou yarn 
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar
 ```
-npm run serve
+npm start ou yarn start
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
